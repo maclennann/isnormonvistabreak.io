@@ -18,6 +18,15 @@
       text-decoration: none;
       color: black;
     }
+
+    #answer>a {
+      display: inline-block;
+      font-weight: bold;
+      font-size: 120pt;
+      font-family: Arial, sans-serif;
+      text-decoration: none;
+      color: black;
+    }
   </style>
 </head>
 
@@ -30,7 +39,7 @@
           start = moment("2015-09-25 15:00-04:00"),
           end = moment("2015-11-09 06:00-04:00");
 
-      var answer = (now >= start && now <= end) ? "YES" : "NO";
+      var answer = (now >= start && now <= end) ? "<a href='/yes'>YES</a>" : "NO";
       var elem = document.getElementById('answer');
       elem.innerHTML = answer;
   </script>
