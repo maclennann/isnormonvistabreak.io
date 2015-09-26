@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Yes.]]></subtitle>
   <link href="/yes/atom.xml" rel="self"/>
   <link href="http://isnormonvistabreak.io/yes/"/>
-  <updated>2015-09-21T23:35:28.102Z</updated>
+  <updated>2015-09-25T23:58:27.091Z</updated>
   <id>http://isnormonvistabreak.io/yes/</id>
   
   <author>
@@ -15,11 +15,26 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[Norm Is On Vistabreak]]></title>
+    <link href="http://isnormonvistabreak.io/yes/2015/09/25/Norm-Is-On-Vistabreak/"/>
+    <id>http://isnormonvistabreak.io/yes/2015/09/25/Norm-Is-On-Vistabreak/</id>
+    <published>2015-09-25T23:49:00.000Z</published>
+    <updated>2015-09-25T23:58:27.091Z</updated>
+    <content type="html"><![CDATA[<p>Well I made it. I’m on Vistabreak. You are welcome to use this site to determine when a good time is to rob me, burglars.</p>
+<p>I leave on Sunday for Portland and Hashiconf.</p>]]></content>
+    <summary type="html">
+    <![CDATA[<p>Well I made it. I’m on Vistabreak. You are welcome to use this site to determine when a good time is to rob me, burglars.</p>
+<p>I leave ]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[Is Norm On Vistabreak?]]></title>
     <link href="http://isnormonvistabreak.io/yes/2015/09/21/hello-world/"/>
     <id>http://isnormonvistabreak.io/yes/2015/09/21/hello-world/</id>
     <published>2015-09-21T23:25:53.000Z</published>
-    <updated>2015-09-21T23:35:28.102Z</updated>
+    <updated>2015-09-25T23:46:44.521Z</updated>
     <content type="html"><![CDATA[<h4 id="Next_week_starts_my_6_weeks_off-">Next week starts my 6 weeks off.</h4><p>So that’s cool. I mean, it’s not completely unheard of - especially in the tech space. But it’s unheard of for me to have more than a week with nothing to do. At least for the past 10 years or so. So I’m pretty excited.</p>
 <h4 id="Not_really_nothing-">Not really nothing.</h4><p>“Nothing” to do might be a strong word. I’ve got a lot to do.</p>
 <h4 id="Anyway-">Anyway.</h4><p>I wanted to try out <a href="http://hexo.io" target="_blank" rel="external">hexo</a> for a blog engine, so I figured I’d try it here and pretend I’m going to write about what’s going on during my vistabreak, especially during my 5 day train trip across the country.</p>
