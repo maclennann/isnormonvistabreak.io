@@ -4,6 +4,7 @@ tags:
 coverImage: loitering.JPG
 coverMeta: out
 coverSize: partial
+thumbnailImage: loitering.JPG
 photos:
   - blue_star.JPG 'What Calvin Ate. Delicious Blue Star Donuts.'
   - the_sandwich.JPG 'What Calvin Ate. Double-decker pastrami and chicken salad sandwich.'
