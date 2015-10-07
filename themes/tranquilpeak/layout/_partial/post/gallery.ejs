@@ -19,7 +19,7 @@
                         <%  photoUrl += "#.jpg"; %>
                     <% } %>
                 <% } else { %>
-                    <% photoUrl = url_for(post.path.replace('.html', '/') + photo); %>
+                    <% photoUrl = url_for(post.path.replace('.html', '/') + photoUrl); %>
                 <% } %>
                 <div class="photo-box">
                     <a class="photo-box-inner fancybox" rel="fancybox-thumb" data-fancybox-group="<%= 'gallery-' + post.id %>" title="<%= photoTitle %>" href="<%= photoUrl %>">
