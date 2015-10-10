@@ -97,19 +97,19 @@ After leaving Calvin on the train...something? We walked to the Rose Garden, I k
 
 I guess that's where everything started becoming retroactively hazy.
 
-We hit up Mike, one of the guys I knew from Monitorama and asked if he wanted to partake in an Escape Game. And he did. So we grabbed dinner at Casa de Matador - several margaritas and enchiladas. Lovely food in a lovely part of town. It required basically walking all the way back to the Rose Garden, though.
+We hit up Mike, one of the guys I knew from Monitorama and asked if he wanted to partake in an Escape Game. And he did. So we grabbed dinner at Casa del Matador - several margaritas and enchiladas. Lovely food in a lovely part of town. It required basically walking all the way back to the Rose Garden, though.
 
 Then we tried to hit up Ground Kontrol, but I guess it was Free Play night, so it was packed. We went around the corner to Davis Street Tavern instead for a couple more cocktails before it was our appointment to escape the room.
 
 So we hung out for a little bit and Ubered over to a sketchy neighborhood to get locked in a room. Like, the place didn't even have a sign on it, from what I remember. Mike just knocked on the door. We successfully escaped what I'm pretty sure was a game.
 
-Then we headed back across the river to Salt and Straw for some delicious ice cream. Jeremy finally got that waffle cone he had been talking about. We decided to give Ground Kontrol another shot. We got in and it was indeed Free Play night. And things may have gotten a little out of control...kontrol? I'll leave the specifics as an exercise to any reader who wishes to ask Jeremy for embarassaing stories about me. But Portland makes some good IPAs.
+Then we headed back across the river to Salt and Straw for some delicious ice cream. Jeremy finally got that waffle cone he had been talking about. We decided to give Ground Kontrol another shot. We got in and it was indeed Free Play night. And things may have gotten a little out of control...kontrol? I'll leave the specifics as an exercise to any reader who wishes to ask Jeremy for embarrassing stories about me. But Portland makes some good IPAs.
 
 ### Thursday
 
 Jeremy's last day.
 
-We did breakfast at Cheryl's again. Then he bought a belt and had to head to the airport.
+We did breakfast at Cheryl's again. Then he bought a belt and had to head to the airport. Also "belt" is not a drug thing or anything like that - just like a regular belt.
 
 I went back to my room for a quick nap, which turned out to be a mistake. I woke up with the aggregate hangover of the previous 4 days, so I stayed in bed for the rest of the day.
 
@@ -136,7 +136,7 @@ Then I just went out and experienced Saturday night in downtown Portland. Hit up
 * The dude who asked "What's the matter? Never seen a homeless guy before?" to another guy who was himself homeless.
 * The women loudly fighting over which bar to go to after Deschute's.
 * The guy passed out in the doorway of a closed shop spooning his bicycle.
-    * The cop who just walked passed him, shaking his head.
+    * The cop who just walked past him, shaking his head.
 * Then I swung back around to Powell's because what else does one do on a Saturday night in the city?
 
 ### Sunday
