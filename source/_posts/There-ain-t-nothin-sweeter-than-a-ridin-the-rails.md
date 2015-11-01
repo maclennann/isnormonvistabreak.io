@@ -1,6 +1,19 @@
 title: "There ain't nothin sweeter than a-ridin the rails"
 date: 2015-10-09 23:18:45
 tags:
+coverImage: sacramento.jpg
+coverMeta: out
+coverSize: partial
+thumbnailImage: sacramento.jpg
+photos:
+  - likeonatrain.jpg
+  - somepicture.jpg
+  - sometracks.jpg
+  - dirtroad.jpg
+  - colorado.jpg
+  - ariver.jpg
+  - rocksmaybe.jpg
+  - sacramento.jpg
 ---
 
 This used to say something really clever, but I guess I forgot to save. So when my battery died, so did my sweet-ass intro.
